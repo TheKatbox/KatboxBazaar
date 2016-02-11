@@ -8,7 +8,9 @@ This is an example repo to teach Aven and Nekonny how to code.
 
 SK: I'm innocent, I swear!
 
+```
  |\      _,,,---,,_
  /,`.-'`'    -.  ;-;;,_
  |,4-  ) )-,_..;\ (  `'-'
 '---''(_/--'  `-'\_)  ZZZZZZZZZZZ
+```
