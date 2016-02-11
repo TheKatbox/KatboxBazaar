@@ -6,4 +6,9 @@ This is an example repo to teach Aven and Nekonny how to code.
 
 (SK actually slipped some deadly nightshade into his drinking bowl...)
 
-I'm innocent, I swear!
+SK: I'm innocent, I swear!
+
+ |\      _,,,---,,_
+ /,`.-'`'    -.  ;-;;,_
+ |,4-  ) )-,_..;\ (  `'-'
+'---''(_/--'  `-'\_)  ZZZZZZZZZZZ
